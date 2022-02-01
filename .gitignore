@@ -11,3 +11,5 @@ test
 test_*
 tmp
 var
+# ignore commit message
+.gitcommit
